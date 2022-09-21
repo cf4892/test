@@ -7,3 +7,4 @@ Test
 - Foxtrot
 - Groovy
 - Happy
+- Indigo
