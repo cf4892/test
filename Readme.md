@@ -12,3 +12,4 @@ Test
 - King
 - Lion
 - Monkey
+- Ninja
